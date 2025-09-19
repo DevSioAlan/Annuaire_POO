@@ -31,7 +31,7 @@ class PdoBridge
      * Fonction statique qui crée l'unique instance de la classe
      *
      * Appel : $instancePdolafleur = PdoBridge::getPdoBridge();
-     * @return l'unique objet de la classe PdoBridge
+     * @return PdoBridge
      */
     public static function getPdoBridge()
     {
