@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6df91285-0b79-4f2a-80d7-fbbd8e0f85d5" name="Changes" comment="V1">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/annuaire.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/Gerer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vueAccueil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vueListeMembre.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vueSaisieMembre.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vueSaisieResult.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vueSupprimerMembre.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vueSupprimerResult.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/PdoBridge.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/v_accueil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/v_choisirmembre.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/v_gabarit_entete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/v_gabarit_pied.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/v_listemembres.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/v_menu.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DevSioAlan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DevSioAlan/Annuaire_POO.git&quot;,
+    &quot;accountId&quot;: &quot;77e1fb8c-884d-44ee-88b6-6ff1e6537e34&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2Etschwcb4GJwEu4XXVgExRa5Ki" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.php.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/transfert/Annuaire_POO/Annuaire_POO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\christophe\OneDrive - BUREAU 89\Documents\wwwTP\TP_annuaire\annuaire_prof" />
+      <recent name="C:\Users\christophe\OneDrive - BUREAU 89\Documents\wwwTP\TP_annuaire\annuaire_prof\images" />
+      <recent name="C:\Users\christophe\OneDrive - BUREAU 89\Documents\www\TP_annuaire\annuaire_prof\images" />
+      <recent name="C:\Users\christophe\OneDrive - BUREAU 89\Documents\www\TP_annuaire\annuaire_prof\views" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PS-252.25557.128" />
+        <option value="bundled-php-predefined-a98d8de5180a-ce40d0652d34-com.jetbrains.php.sharedIndexes-PS-252.25557.128" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6df91285-0b79-4f2a-80d7-fbbd8e0f85d5" name="Changes" comment="" />
+      <created>1663426295448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663426295448</updated>
+      <workItem from="1663426296589" duration="3490000" />
+      <workItem from="1663436542610" duration="35000" />
+      <workItem from="1663436590386" duration="858000" />
+      <workItem from="1663847097895" duration="620000" />
+      <workItem from="1663865902731" duration="51000" />
+      <workItem from="1663866745451" duration="283000" />
+      <workItem from="1671828116395" duration="6335000" />
+      <workItem from="1672304678985" duration="597000" />
+      <workItem from="1672817273003" duration="7518000" />
+      <workItem from="1678177351508" duration="19000" />
+      <workItem from="1678278770627" duration="5000" />
+      <workItem from="1678310748066" duration="771000" />
+      <workItem from="1678414147462" duration="165000" />
+      <workItem from="1678414431892" duration="1919000" />
+      <workItem from="1678433843997" duration="1229000" />
+      <workItem from="1678482735922" duration="622000" />
+      <workItem from="1678512421878" duration="763000" />
+      <workItem from="1758271341556" duration="3077000" />
+      <workItem from="1758278858991" duration="1623000" />
+    </task>
+    <task id="LOCAL-00001" summary="V1">
+      <option name="closed" value="true" />
+      <created>1758273130351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758273130351</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1" />
+  </component>
+</project>
